@@ -1,0 +1,1 @@
+This is Thy's first git project
